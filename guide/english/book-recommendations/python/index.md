@@ -15,7 +15,7 @@ title: Books on Python Programming Language
  
 #### Learn Python 3 the Hard Way
 
-Paid (Free ebook available) book which covers the basics of python. It's designed to get you started with python language and become familiar with its syntax and workings by the time you complete the book. 
+Paid (Free E-book available) book which covers the basics of python. It's designed to get you started with python language and become familiar with its syntax and workings by the time you complete the book. 
 
 - [Website](https://learnpythonthehardway.org/) (Buy from the creator | Includes video lessons)
 - [E-book](https://learnpythonthehardway.org/python3/) (free)
